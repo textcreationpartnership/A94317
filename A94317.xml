@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>October 9. 1645. Three letters, concerning his Majesties present condition, one from Generall Pointz, to the Committee of Derby. And the other two from gentlemen of quality, to Mr. William Lilly in London. Published according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94317</idno>
+            <idno type="STC">Wing T1095</idno>
+            <idno type="STC">Thomason E304_14</idno>
+            <idno type="STC">ESTC R200307</idno>
+            <idno type="EEBO-CITATION">99861114</idno>
+            <idno type="PROQUEST">99861114</idno>
+            <idno type="VID">113242</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94317)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113242)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 50:E304[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>October 9. 1645. Three letters, concerning his Majesties present condition, one from Generall Pointz, to the Committee of Derby. And the other two from gentlemen of quality, to Mr. William Lilly in London. Published according to order.</title>
+                  <author>Poyntz, Sydenham.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Mathew Simmons for H. B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113242:1" rendition="simple:additions"/>
+            <p>
+               <hi>October</hi> 9. 1645.</p>
+            <p>THREE LETTERS, Concerning his Majeſties preſent CONDITION, One from Generall Pointz, TO THE COMMITTEE of DERBY.</p>
+            <p>And the other two From Gentlemen of quality, To Mr. WILLIAM LILEY in LONDON.</p>
+            <p>Publiſhed according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Matthew Simmons</hi> for <hi>H. B.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:113242:2"/>
+            <pb n="1" facs="tcp:113242:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have here incloſed, ſent you a copy of Major Ge<g ref="char:EOLhyphen"/>nerals Letter to us con<g ref="char:EOLhyphen"/>cerning the Kings moti<g ref="char:EOLhyphen"/>on, which wee received yeſterday, and ſince we are certainly informed, that hee came to <hi>Lichfield</hi> on <hi>Thurſday</hi> night, to <hi>Melborne</hi> on <hi>Friday</hi> night, and this morning is marched towards <hi>Newark,</hi> there being in his company, the Lord <hi>Loughborough, Gerhard, Langdale,</hi> and <hi>Vaughan;</hi> his number in the whole is about 2000. of which there is not above 1500. fighting men, whereof
+<pb n="2" facs="tcp:113242:3"/>many of them ill horſed and armed, little ammunition, and no carriages, all which is confirmed by two Trou<g ref="char:EOLhyphen"/>pers which came this morning to us with their horſes and armes from the Kings Rendezvouz; and further ſay, that Prince <hi>Maurice</hi> is gone back to <hi>Worceſter,</hi> and Sir <hi>Jacob Aſhley</hi> to <hi>He<g ref="char:EOLhyphen"/>reford:</hi> that moſt of the Kings Army are <hi>Iriſh</hi> and <hi>Papiſts,</hi> for the <hi>Prote<g ref="char:EOLhyphen"/>ſtants</hi> ſteale away daily; and ſo in haſt, not to Ioſe this opportunity, do reſt,</p>
+            <closer>
+               <signed>Your Reall Friend.
+Derby,</signed> 
+               <dateline>
+                  <date>Octob. 4. 1645.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:113242:3"/>
+            <head>The Copy of Major Generall <hi>POINTZ his Letter.</hi>
+            </head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince the great <hi>Victories</hi> God gave us neer <hi>Cheſter,</hi> I have paſt the River into <hi>Wales,</hi> becauſe the King was in <hi>Denbighſhire,</hi> raiſing that Countrey; and Prince <hi>Maurice,</hi> with Sir <hi>Ja<g ref="char:EOLhyphen"/>cob Aſhley</hi> joyned with him; but up<g ref="char:EOLhyphen"/>on our approach, he fled upon Sun<g ref="char:EOLhyphen"/>day laſt from <hi>Denbigh</hi> to <hi>Cherick Caſtle;</hi> his motion from thence, is the way to <hi>Newark,</hi> which gives us to thinke, hee intends to recruit himſelf there, that hee may fall in<g ref="char:EOLhyphen"/>to theſe parts again, as the moſt con<g ref="char:EOLhyphen"/>ſiderable
+<pb n="4" facs="tcp:113242:4"/>now to him, of which I thought fit to give you timely no<g ref="char:EOLhyphen"/>tice; that if any forces draw out of <hi>Newark,</hi> you with all ſpeed fol<g ref="char:EOLhyphen"/>low them in the rear, and it ſhall be my part to follow the enemy ſo cloſe, that they may not eſcape us. Circumſpection is the thing moſt required of you, and all thoſe parts, in which ſervice, if you faile not, wee ſhall be able to give a good ac<g ref="char:EOLhyphen"/>count of the great truſt committed to us; you may the better do this, becauſe no enemy (if any) not conſiderable left behinde you For the Kingdomes ſake faile not here<g ref="char:EOLhyphen"/>in, and you ſhall hereby oblige</p>
+            <closer>
+               <signed>Your Servant, <hi>Sed'nham Pointz.</hi>
+               </signed>
+               <pb n="5" facs="tcp:113242:4"/>
+            </closer>
+            <postscript>
+               <head>Poſtſcript.</head>
+               <p>Since the writing of this Letter, I re<g ref="char:EOLhyphen"/>ceived intelligence, that the King is at <hi>Bridgenorth,</hi> and hath drawn all his Forces out of <hi>Worceſter, Here<g ref="char:EOLhyphen"/>ford, Ludlow</hi> and <hi>Bridgenorth,</hi> which way he will bend, time will ſhew. I deſire you to ſend mee all the Horſe you can ſpare.</p>
+               <closer>
+                  <dateline>Elſmore, <date>October 2. 1645.</date>
+                  </dateline>
+               </closer>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:113242:5"/>
+            <opener>
+               <salute>M<hi rend="sup">r.</hi> Lilly,</salute>
+            </opener>
+            <p>GOD be praiſed, wee are gotten well and ſafe to <hi>Leiceſter,</hi> and had the grant of a party of horſe to convoy us to <hi>Notting<g ref="char:EOLhyphen"/>ham,</hi> but in the very <hi>interim</hi> newes was brought, that the King was at <hi>Dennington</hi> with all his bo<g ref="char:EOLhyphen"/>dy, in number about 2 or 3000. horſe, all muti<g ref="char:EOLhyphen"/>nous and diſtracted, which for the preſent will occaſion our ſtay here, till the wayes be cleerer, In the mean time I reſt</p>
+            <closer>
+               <signed>Your loving Friend.</signed> 
+               <dateline>Leiceſter,<date>October 4. 1645.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
